@@ -1,3 +1,3 @@
 # Demo
 
-This is a demo readme file just to test out what is going on.
+This is an edit of the demo readme file as it will show me how commits work.
